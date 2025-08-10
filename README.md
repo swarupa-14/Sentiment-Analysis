@@ -12,7 +12,7 @@ It allows users to input text and receive a sentiment prediction: Positive, Nega
 1. Clone this repository
 2. Navigate to the project folder and install dependencies
 3. Start the app
-4. Open your browser and go to:http://127.0.0.1:5000/
+4. Open your browser and go to
 ## License
 This project is open source under the MIT License.
 
